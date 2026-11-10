@@ -18,7 +18,7 @@ pathspec>=1.0.0
 platformdirs==4.3.6
 pydantic==2.9.2
 pydantic_core==2.23.4
-pylint==3.3.1
+pylint==4.0.9
 python-dateutil==2.9.0.post0
 pytz==2024.2
 six==1.16.0
